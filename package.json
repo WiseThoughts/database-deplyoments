@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/WiseThoughts/database-deplyoments#readme",
   "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongodb": "^4.7.0",
     "yargs": "^17.5.1"
   }
 }
